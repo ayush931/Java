@@ -26,3 +26,10 @@ public class Third_Datatype {
 // 6. double -> size:- 8 bytes / 64 bits
 // 7. float -> size:- 4 bytes / 32 bits
 // 8. char -> size:- 2 bytes / 16 bits
+
+// Non-primitive datatype
+
+// 1. Strings
+// 2. Arrays
+// 3. Classes
+// 4. Interface
