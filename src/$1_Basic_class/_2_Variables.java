@@ -1,6 +1,6 @@
-package Basic_class;
+package $1_Basic_class;
 
-public class Second_Variables {
+public class _2_Variables {
     public static void main(String[] args) {
         int money = 2000;
         money = 5000;

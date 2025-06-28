@@ -1,6 +1,6 @@
-package Basic_class;
+package $1_Basic_class;
 
-public class Third_Datatype {
+public class _3_Datatype {
     public static void main(String[] args) {
         // primitive datatypes
         boolean flag = false;
